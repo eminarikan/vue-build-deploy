@@ -30,9 +30,9 @@
    </Directory>
   </VirtualHost>
   ```
-## Ngnix
+## Nginx
 - vue projesinin buildi `nginx/html` konumuna yerleştirilir.
-- `ngnix/conf/ngix.conf` dosyasındaki `http.server.location` değişkeni;
+- `ngnix/conf/ngnix.conf` dosyasındaki `http.server.location` değişkeni;
 
   ```
     location / {
